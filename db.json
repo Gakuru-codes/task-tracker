@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "johndoe@example.com",
+      "username": "johndoe",
+      "password": "hashed_password",
+      "createdAt": "2023-01-01T00:00:00.000Z",
+      "isActive": true
+    }
+  ],
+  "tasks": [
+    {
+      "id": "b786",
+      "title": "Consectetur dolore a",
+      "status": "Pending",
+      "importance": "High",
+      "due": "2025-07-10",
+      "userId": "1",
+      "createdAt": "2025-07-08T21:24:19.210Z",
+      "updatedAt": "2025-07-08T21:24:19.210Z"
+    }
+  ]
+}
